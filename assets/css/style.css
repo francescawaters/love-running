@@ -84,7 +84,7 @@ nav {
 
 /*Main Content*/
 main {
-    background-color: aqua;
+    background-color: lightblue;
     /*Make main content to take up any surplus space to push footer down*/
     flex: 1 0 auto;
     margin-top: 47px;
@@ -92,7 +92,7 @@ main {
 
 /*Footer*/
 footer {
-    background-color: goldenrod;
+    background-color: orange;
 }
 
 /* Media Query: tablets and larger (768px and up) */
