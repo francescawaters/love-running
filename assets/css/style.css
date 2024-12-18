@@ -1,0 +1,21 @@
+/* * wildcard selector is used to override defult styles added by the browser */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*Header*/
+header {
+    background-color: coral;
+}
+
+/*Main Content*/
+main {
+    background-color: aqua;
+}
+
+/*Footer*/
+footer {
+    background-color: goldenrod;
+}
